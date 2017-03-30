@@ -1,0 +1,35 @@
+[
+  {
+    "repository" : "DarkNess-reDefined/device_samsung_serrano-common",
+    "target_path": "device/samsung/serrano-common",
+    "branch"     : "cm-14.1"
+  },
+  {
+    "repository" : "LineageOS/android_device_samsung_msm8930-common",
+    "target_path": "device/samsung/msm8930-common",
+    "branch":      "cm-14.1"
+  },
+  {"repository"  : "LineageOS/android_device_samsung_qcom-common",
+   "target_path" : "device/samsung/qcom-common",
+   "branch"      : "cm-14.1"
+  {
+    "repository" : "LineageOS/android_kernel_samsung_msm8930-common",
+    "target_path": "kernel/samsung/msm8930-common",
+    "branch"     : "cm-14.1"
+  },
+  {
+    "repository" : "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch"     : "cm-14.1"
+  },
+  {
+    "repository" : "LineageOS/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch"     : "cm-14.1"
+  },
+  {
+    "repository" : "TheMuppets/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch"     : "cm-14.1"
+  }
+]
