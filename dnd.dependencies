@@ -2,7 +2,7 @@
   {
     "repository" : "DarkNess-reDefined/device_samsung_serrano-common",
     "target_path": "device/samsung/serrano-common",
-    "branch"     : "cm-14.1"
+    "branch"     : "n"
   },
   {
     "repository" : "LineageOS/android_device_samsung_msm8930-common",
