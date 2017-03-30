@@ -20,7 +20,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/samsung/serranodsdd/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
+$(call inherit-product, vendor/dnd/configs/common_full_phone.mk)
 
 PRODUCT_NAME := dnd_serranodsdd
 PRODUCT_DEVICE := serranodsdd
